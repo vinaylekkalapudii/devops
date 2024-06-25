@@ -1,3 +1,8 @@
+jai NTR
 vinay god
+<<<<<<< HEAD
 bless me dad
 pathala bhairavi
+=======
+bless me daddy
+>>>>>>> 689a1ed35db9680aa6c48dd0c6df0416e5455874
